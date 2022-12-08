@@ -1,2 +1,5 @@
 // This is a JavaScript file
 
+  // APIキーの設定
+    var APPLICATION_KEY ="4167e6f8d20256a76d5613cc265ac94d4ba6c53477c0de677e269f7198d1b9fc";
+    var CLIENT_KEY ="b79955130182f15e7581eab1c92b7fdf3a8eabe3382a8686a113f9b359245e40";
